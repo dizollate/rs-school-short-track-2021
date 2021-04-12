@@ -40,7 +40,6 @@ function getDNSStats(domains) {
       }
     }
   }
-
   return obj;
 }
 
